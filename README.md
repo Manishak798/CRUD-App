@@ -43,7 +43,7 @@ npm install
    - Define the following environment variables in the `.env` file:
 
      ```
-     PORT=3000
+     PORT=8080
      MONGODB_URI=your_mongodb_connection_uri
      ```
 
