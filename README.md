@@ -16,6 +16,9 @@ Before running this application, make sure you have the following installed:
 
 - Node.js
 - npm (Node Package Manager)
+- MongoDB
+- Mongoose
+- REST APIs
 
 ## Setup 🚧
 
