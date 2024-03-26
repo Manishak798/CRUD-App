@@ -70,10 +70,3 @@ npm start
 - **PUT /items/:id**: Update an existing item.
 - **DELETE /items/:id**: Delete an item by ID.
 
-## Contributing 🤝
-
-Contributions are welcome! If you'd like to improve this project, feel free to submit a pull request.
-
-
-
-
