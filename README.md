@@ -57,7 +57,7 @@ npm install
 1. Start the server:
 
 ```bash
-npm start
+npm start index.js
 ```
 
 2. Once the server is running, you can use your preferred API testing tool (e.g., Postman) to interact with the APIs.
