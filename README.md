@@ -19,6 +19,8 @@ Before running this application, make sure you have the following installed:
 - MongoDB
 - Mongoose
 - REST APIs
+- nodemon
+- Express
 
 ## Setup 🚧
 
