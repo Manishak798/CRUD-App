@@ -54,7 +54,7 @@ npm install
 
      Replace `your_mongodb_connection_uri` with your MongoDB connection URI.
 
-## Usage 🚀
+## Usage 🚀👾
 
 1. Start the server:
 
