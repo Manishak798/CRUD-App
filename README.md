@@ -22,7 +22,7 @@ Before running this application, make sure you have the following installed:
 - nodemon
 - Express
 
-## Setup ✨💻
+## Setup 💻
 
 1. Clone this repository to your local machine:
 
