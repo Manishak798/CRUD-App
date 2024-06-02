@@ -1,4 +1,3 @@
-
 # Node.js CRUD Application with APIs 🚀 
 
 This repository contains a simple Node.js CRUD (Create, Read, Update, Delete) application with APIs. This application allows you to perform basic CRUD operations on a collection of items.
