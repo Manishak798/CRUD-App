@@ -4,7 +4,7 @@ import express from 'express';
 
 export const router = Router();
 router.use(express.json());///important for axios to send data
-//Model(modelname,schema)
+//ModelName(modelname,schema)
 
 router.post('/new', async (req, res) => {
     try {
