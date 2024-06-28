@@ -1,7 +1,7 @@
 import { mongodbURI } from "../config.js";
 import mongoose from "mongoose";
 
-//connecting to DB
+//Connecting to MongoDB Database
 
 export const ConnectionDB = mongoose.connect(mongodbURI).then(() => {
     console.log('MongoDB Connected');
