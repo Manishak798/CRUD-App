@@ -9,7 +9,7 @@ This repository contains a simple Node.js CRUD (Create, Read, Update, Delete) ap
 - **Update:** Update the details of an existing item.
 - **Delete:** Remove an item from the collection.
 
-## Prerequisites 🛠️
+## Prerequisites 🛠️✨
 
 Before running this application, make sure you have the following installed:
 
